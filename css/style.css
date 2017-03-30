@@ -6,11 +6,17 @@ section{
     padding: 3em 0;
 }
 
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
 .navbar-nav a{
     color: white;
 }
 .navbar-nav a.btn, .input-group-btn button {
     background-color: #212121 !important;
+    color: white;
 }
 .splash-screen{
     height: 100vh;
@@ -20,11 +26,15 @@ section{
     background-color: rgba(0, 0, 0, 0.8);
     background-blend-mode: overlay;
     color: white;
+    padding-top: 0;
 }
 
 .splash-content{
     margin-top: 25vh;
-    width: 60%;
+}
+
+.splash-content h2{
+    width: 70%;
 }
 
 .splash-content input{
@@ -35,11 +45,17 @@ section{
 }
 
 .card{
-    width: 70%;
+    width: 90%;
     padding: 2em 1em;
     background-color: white;
     box-shadow: 0 0 50px -20px #c3c3c3;
     margin: 2em auto;
+}
+
+footer{
+    background-color: #212121;
+    color: white;
+    padding: 2em 0;
 }
 
 .brand-color{
