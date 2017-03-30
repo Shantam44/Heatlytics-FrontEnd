@@ -1,0 +1,47 @@
+.navbar{
+    padding: 1em 0;
+}
+
+section{
+    padding: 3em 0;
+}
+
+.navbar-nav a{
+    color: white;
+}
+.navbar-nav a.btn, .input-group-btn button {
+    background-color: #212121 !important;
+}
+.splash-screen{
+    height: 100vh;
+    background-image: url('/images/splash-screen.jpg');
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
+    color: white;
+}
+
+.splash-content{
+    margin-top: 25vh;
+    width: 60%;
+}
+
+.splash-content input{
+    width: 400px !important;
+    background-color: rgba(225 ,225 ,225 , 0.6);
+    border: none;
+    outline: none;
+}
+
+.card{
+    width: 70%;
+    padding: 2em 1em;
+    background-color: white;
+    box-shadow: 0 0 50px -20px #c3c3c3;
+    margin: 2em auto;
+}
+
+.brand-color{
+    color: #ff7163;
+}
