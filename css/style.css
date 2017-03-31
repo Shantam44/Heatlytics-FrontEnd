@@ -35,13 +35,59 @@ section{
 }
 
 .card{
+    height:40%;
     width: 70%;
     padding: 2em 1em;
     background-color: white;
-    box-shadow: 0 0 50px -20px #c3c3c3;
+    box-shadow: 0 0 50px -20px black;
     margin: 2em auto;
 }
 
 .brand-color{
     color: #ff7163;
 }
+.pricing{
+    background-color: orange;
+
+}
+.contact-us-section{
+    background-color: orange;
+}
+button{
+    position: absolute;
+    top:70%;
+}
+.foot{
+    height: 30%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.form-inline{
+    padding-left: 40%;
+}
+.class1{
+    padding-left: 30%;
+}
+.class2{
+    padding-left: 40%;
+
+}
+.class3{
+    padding-right:15%;
+    padding-top: 3%;
+}
+.class4{
+    padding-right: 15%;
+}
+.class5{
+    padding-left:17.5%;
+}
+.class6{
+    padding-left:34%;
+    padding-top:1%;
+    padding-right:5%;
+}
+.class7{
+    padding-left:34%;
+}
+
