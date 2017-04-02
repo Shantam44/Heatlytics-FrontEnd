@@ -76,7 +76,7 @@ button{
 .container h1{
     text-align: center;
 }
-form {
+.signupform{
     padding-left:27em;
     margin-top: 4em;
 
@@ -87,14 +87,18 @@ form {
 .thirdinput{
     margin-top:1em;
 }
-.container p{
+.signupP{
     padding-left:27em;
     width:60em;
 }
-.container span{
-  text-align: center;
-}
 .signbutton{
+    width: 380px;
     margin-top: 1em;
-    width: 385px !important;
+}
+.signspan{
+    text-align: center;
+}
+.index2ndform{
+    text-align: center;
+    margin-top:1em;
 }
