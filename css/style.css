@@ -79,4 +79,22 @@ button{
 form {
     padding-left:27em;
     margin-top: 4em;
+
+}
+.secondinput{
+    margin-top: 1em;
+}
+.thirdinput{
+    margin-top:1em;
+}
+.container p{
+    padding-left:27em;
+    width:60em;
+}
+.container span{
+  text-align: center;
+}
+.signbutton{
+    margin-top: 1em;
+    width: 385px !important;
 }
