@@ -20,7 +20,7 @@ ul{
 }
 .splash-screen{
     height: 100vh;
-    background-image: url('/images/splash-screen.jpg');
+    background-image: url('./../images/splash-screen.jpg');
     background-position: center;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.8);
