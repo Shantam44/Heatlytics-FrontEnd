@@ -14,10 +14,75 @@ section{
 }
 .splash-screen{
     height: 100vh;
-    background-image: url('/images/splash-screen.jpg');
+   
     background-position: center;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0);
     background-blend-mode: overlay;
     color: white;
+}
+.bs-example{
+    	margin: 20px;
+}
+hr{
+        margin: 60px 0;
+}
+
+.card{
+    width: 80% !important;
+    height:50%;
+    left-padding:5em;
+    background-color: white;
+    box-shadow: 0 0 50px -20px black;
+    margin: 2em auto;
+}
+h4{
+    background-color: red;
+}
+.col-md-6{
+    text-align: center;
+    width: 70% !important;
+    padding-left: 5em !important;
+
+}
+.navbar-fixed-left {
+  width: 140px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+  float: none;  /* Cancel default li float: left */
+  width: 139px;
+}
+
+.navbar-fixed-left + .container {
+  padding-left: 160px;
+}
+
+/* On using dropdown menu (To right shift popuped) */
+.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
+  .navbar-fixed-left {
+  width: 240px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+  float: none;  /* Cancel default li float: left */
+  width: 200px;
+}
+
+.navbar-fixed-left + .container {
+  padding-left: 160px;
+}
+
+/* On using dropdown menu (To right shift popuped) */
+.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
+  margin-top: -50px;
+  margin-left: 140px;
+}
+  margin-left: 140px;
 }
