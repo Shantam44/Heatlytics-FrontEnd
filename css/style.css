@@ -95,8 +95,9 @@ button{
     width: 100%;
 }
 .signupP{
-    padding-left:27em;
-    width:60em;
+    width: 100%;
+    text-align: justify;
+    margin: 1em 0;
 }
 .signbutton{
     width: 380px;
