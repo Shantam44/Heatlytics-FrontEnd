@@ -77,15 +77,22 @@ button{
     text-align: center;
 }
 .signupform{
-    padding-left:27em;
-    margin-top: 4em;
-
+    width: 40%;
+    margin: 4em auto;
+    text-align: center;
+}
+.signupform .input-group,
+.signupform .form-group{
+    width: 100%;
 }
 .secondinput{
     margin-top: 1em;
 }
 .thirdinput{
     margin-top:1em;
+}
+.thirdinput input{
+    width: 100%;
 }
 .signupP{
     padding-left:27em;
