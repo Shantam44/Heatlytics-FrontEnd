@@ -1,26 +1,29 @@
 {
-    "name": "Healthlytics",
-    "version": "0.0.1",
-    "description": "",
-    "main": "gulpfile.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Shantam Kumar",
-    "license": "ISC",
-    "devDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Shantam44/Heatlytics-FrontEnd.git"
-    },
-    "keywords": [
-        "jade",
-        "gulp",
-        "sass",
-        "browsersync"
-    ],
-    "bugs": {
-        "url": "https://github.com/Shantam44/Heatlytics-FrontEnd/issues"
-    },
-    "homepage": "https://github.com/Shantam44/Heatlytics-FrontEnd"
+  "name": "Healthlytics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shantam Kumar",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shantam44/Heatlytics-FrontEnd.git"
+  },
+  "keywords": [
+    "jade",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "bugs": {
+    "url": "https://github.com/Shantam44/Heatlytics-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Shantam44/Heatlytics-FrontEnd",
+  "dependencies": {
+    "chart.js": "^2.5.0"
+  }
 }
